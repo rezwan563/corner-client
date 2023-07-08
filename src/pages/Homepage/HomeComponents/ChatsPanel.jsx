@@ -1,7 +1,7 @@
 
 const ChatsPanel = () => {
     return (
-        <div>
+        <div className="bg-white">
             ChatsPanel
         </div>
     );

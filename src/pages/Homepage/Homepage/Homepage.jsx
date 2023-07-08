@@ -9,13 +9,13 @@ const Homepage = () => {
       <div className="col-span-3">
         <Navbar />
       </div>
-      <div className="bg-green-500">
+      <div className="">
         <NotificationPanel />
       </div>
-      <div className="bg-blue-400">
+      <div className="">
         <NewsFeed />
       </div>
-      <div className="bg-yellow-200">
+      <div className="">
         <ChatsPanel />
       </div>
     </div>

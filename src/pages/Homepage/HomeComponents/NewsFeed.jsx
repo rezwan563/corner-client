@@ -1,7 +1,7 @@
 
 const NewsFeed = () => {
     return (
-        <div>
+        <div className="bg-white">
             NewsFeed
         </div>
     );
