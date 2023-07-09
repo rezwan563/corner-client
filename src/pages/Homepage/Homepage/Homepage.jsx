@@ -5,7 +5,7 @@ import NotificationPanel from "../HomeComponents/NotificationPanel";
 
 const Homepage = () => {
   return (
-    <div className=" grid grid-cols-3 gap-10">
+    <div className=" grid grid-cols-3 gap-8">
       <div className="col-span-3">
         <Navbar />
       </div>
